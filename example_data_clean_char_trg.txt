@@ -1,1 +1,0 @@
-restaurant#0,7 facility:other#13,24 loc:others#42,51 restaurant#70,79 cardinal#154,155 unit#155,158 cardinal#302,303 unit#303,306 cardinal#331,334 food:ingredient#413,418 restaurant#459,466 restaurant#575,582
